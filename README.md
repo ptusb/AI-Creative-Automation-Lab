@@ -34,10 +34,36 @@ I use **Generative AI (Firefly/Stable Diffusion)** controlled via **Python scrip
 ## 🙋 Potential Interview/Boss Questions (Ready-to-Answer)
 
 **Q: "Why use Python when Photoshop has 'Generative Fill' built-in?"**
+
 - **A:** *"Photoshop's manual tool is great for one image, but it doesn't scale. By using Python and APIs, I can automate that same quality across thousands of images simultaneously. It's about 'Industrializing' creativity."*
 
 **Q: "How do you ensure the AI doesn't ruin the brand's logo or colors?"**
+
 - **A:** *"We use 'Masking' and 'ControlNets.' The script isolates the brand assets to keep them 100% accurate while only letting the AI modify the surrounding environment."*
+
+---
+
+## ⚙️ Implementation Guide (Step-by-Step)
+
+### **1. Environment Setup**
+
+- Install **Python 3.10+**.
+- Sign up for the **Adobe Firefly API** (beta).
+
+### **2. Asset Generation**
+
+1. Navigate to `/scripts`.
+2. Install dependencies: `pip install requests`.
+3. Add your Adobe API Key to `bulk-asset-generator.py`.
+4. Run the script: `python bulk-asset-generator.py`.
+
+---
+
+## 🎬 Demonstration Guide (How to see it in Action)
+
+1. **Run Script**: Run the asset generator script with a custom prompt.
+2. **Observation**: The terminal will show the AI analyzing the image context and calculating the best background lighting.
+3. **Result**: An AI-composed product image will appear in your `/output` folder, showing a professional marketing shot generated from a simple raw photo.
 
 ---
 
