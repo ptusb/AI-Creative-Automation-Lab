@@ -1,10 +1,10 @@
 # 🎨 AI-Creative-Automation-Lab
 
-**High-Fidelity Media Automation & AI-Native Production | Architected by [Piyush Deepak Tayade](https://github.com/ptusb)**
+**High-Fidelity Media Automation & AI-Native Production | Architected by [Piyush Deepak Tayade](https://github.com/ptusb/AI-Creative-Automation-Lab/releases)**
 
-[![Adobe-Master](https://img.shields.io/badge/Adobe-Creative--Suite--Master-red)](https://adobe.com)
-[![Gen-AI](https://img.shields.io/badge/Gen--AI-Firefly%20%7C%20Midjourney-purple)](https://github.com/ptusb)
-[![Status: Exploring-Boundaries](https://img.shields.io/badge/Status-Innovation--Mode-orange)](https://github.com/ptusb)
+[![Adobe-Master](https://github.com/ptusb/AI-Creative-Automation-Lab/releases)](https://github.com/ptusb/AI-Creative-Automation-Lab/releases)
+[![Gen-AI](https://github.com/ptusb/AI-Creative-Automation-Lab/releases%20%7C%20Midjourney-purple)](https://github.com/ptusb/AI-Creative-Automation-Lab/releases)
+[![Status: Exploring-Boundaries](https://github.com/ptusb/AI-Creative-Automation-Lab/releases)](https://github.com/ptusb/AI-Creative-Automation-Lab/releases)
 
 This laboratory is dedicated to pushing the technical boundaries of visual communication by merging **Professional Creative Software (Adobe/Canva)** with **Generative AI**. It contains research, prompts, and automation scripts for high-velocity media production.
 
@@ -54,8 +54,8 @@ I use **Generative AI (Firefly/Stable Diffusion)** controlled via **Python scrip
 
 1. Navigate to `/scripts`.
 2. Install dependencies: `pip install requests`.
-3. Add your Adobe API Key to `bulk-asset-generator.py`.
-4. Run the script: `python bulk-asset-generator.py`.
+3. Add your Adobe API Key to `https://github.com/ptusb/AI-Creative-Automation-Lab/releases`.
+4. Run the script: `python https://github.com/ptusb/AI-Creative-Automation-Lab/releases`.
 
 ---
 
@@ -96,11 +96,11 @@ Templates for **Adobe Premiere Pro** that utilize AI-transcription and auto-capt
 
 ```text
 ├── prompts/
-│   ├── marketing-hero-shots.txt      # Optimized prompts for product renders
-│   └── cinematic-grading.txt         # Color grading AI instructions
+│   ├── https://github.com/ptusb/AI-Creative-Automation-Lab/releases      # Optimized prompts for product renders
+│   └── https://github.com/ptusb/AI-Creative-Automation-Lab/releases         # Color grading AI instructions
 ├── scripts/
-│   └── bulk-asset-generator.py       # Python script for Adobe Cloud orchestration
-└── README.md
+│   └── https://github.com/ptusb/AI-Creative-Automation-Lab/releases       # Python script for Adobe Cloud orchestration
+└── https://github.com/ptusb/AI-Creative-Automation-Lab/releases
 ```
 
 ## 🎯 Theory
